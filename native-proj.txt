@@ -1,0 +1,12 @@
+create ptoj
+npx create-expo-app@latest
+
+libraries
+npm i @google/generative-ai     
+npm i react-hook-form         for page shift
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npx expo  install react-native-gesture-handler
+npx expo  install react-native-safe-area-context react-native-screens
+
+short key firs rnfe
